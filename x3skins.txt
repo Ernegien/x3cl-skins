@@ -27,6 +27,9 @@ eXecution 2,http://x3cl.xboxarchive.org/skins/eXecution-2.zip
 Final Fantasy,http://x3cl.xboxarchive.org/skins/Final-Fantasy.zip
 Half-Life,http://x3cl.xboxarchive.org/skins/Half-Life.zip
 Halo 2,http://x3cl.xboxarchive.org/skins/Halo-2.zip
+Halo 2 Green,http://x3cl.xboxarchive.org/skins/Halo2Green.zip
+Halo 2 Grey,http://x3cl.xboxarchive.org/skins/Halo2Grey.zip
+Halo 2 Goodwin,http://x3cl.xboxarchive.org/skins/Halo2Goodwin.zip
 Halo 2 Marble,http://x3cl.xboxarchive.org/skins/Halo-2-Marble.zip
 Halo X,http://x3cl.xboxarchive.org/skins/Halo-X.zip
 Hi-Tech,http://x3cl.xboxarchive.org/skins/Hi-Tech.zip
@@ -64,11 +67,14 @@ Splinter Cell,http://x3cl.xboxarchive.org/skins/Splinter-Cell.zip
 Starship,http://x3cl.xboxarchive.org/skins/Starship.zip
 Sunset,http://x3cl.xboxarchive.org/skins/Sunset.zip
 Surfrock,http://x3cl.xboxarchive.org/skins/Surfrock.zip
+TeamX,http://x3cl.xboxarchive.org/skins/TeamX.zip
 Techness,http://x3cl.xboxarchive.org/skins/Techness.zip
 Tentalizer,http://x3cl.xboxarchive.org/skins/Tentalizer.zip
 Terminal,http://x3cl.xboxarchive.org/skins/Terminal.zip
 Ultimate Xecuter Menu,http://x3cl.xboxarchive.org/skins/Ultimate-Xecuter-Menu.zip
 UrbanTear,http://x3cl.xboxarchive.org/skins/UrbanTear.zip
+Warning 01,http://x3cl.xboxarchive.org/skins/warning01.zip
+Warning 02,http://x3cl.xboxarchive.org/skins/warning02.zip
 Water,http://x3cl.xboxarchive.org/skins/Water.zip
 Webclean-Dark,http://x3cl.xboxarchive.org/skins/Webclean-Dark.zip
 Webclean-Halloween,http://x3cl.xboxarchive.org/skins/Webclean-Halloween.zip
