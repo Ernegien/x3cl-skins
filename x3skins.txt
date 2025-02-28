@@ -27,6 +27,7 @@ eXecution 2,http://x3cl.xboxarchive.org/skins/eXecution-2.zip
 Final Fantasy,http://x3cl.xboxarchive.org/skins/Final-Fantasy.zip
 Half-Life,http://x3cl.xboxarchive.org/skins/Half-Life.zip
 Halo 2,http://x3cl.xboxarchive.org/skins/Halo-2.zip
+Halo 2 Blue,http://x3cl.xboxarchive.org/skins/Halo2Blue.zip
 Halo 2 Marble,http://x3cl.xboxarchive.org/skins/Halo-2-Marble.zip
 Halo X,http://x3cl.xboxarchive.org/skins/Halo-X.zip
 Hi-Tech,http://x3cl.xboxarchive.org/skins/Hi-Tech.zip
